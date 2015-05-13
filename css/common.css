@@ -1,5 +1,9 @@
+nav {
+  background: #e0e0e0;
+}
+
 nav ul {
-  padding: 0;
+  padding: 10px 20px;
 }
 
 nav ul a li {
