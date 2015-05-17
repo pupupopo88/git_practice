@@ -1,11 +1,17 @@
-body {
-  text-align: center;
+nav {
+  background: #e0e0e0;
 }
 
 nav ul {
-  padding: 0;
+  padding: 10px 20px;
 }
 
 nav ul a li {
   list-style: none;
+}
+
+article {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #e0e0e0;
 }
