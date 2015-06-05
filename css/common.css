@@ -38,10 +38,11 @@ nav ul a li {
 }
 
 article {
-  margin-top: 10px;
+  margin-top:  0 10px 10px;
   padding: 10px;
   border: 1px solid #e0e0e0;
-  background: #e0e0e0;
+  border-radius: 5px;
+  background: #f7f7f7;
 }
 
 section h1 {
