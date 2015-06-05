@@ -8,6 +8,11 @@ body{
   background: #FFFFFF;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 header {
   height: 100px;
   line-height: 100px;
