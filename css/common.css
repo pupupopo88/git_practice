@@ -4,6 +4,13 @@ html, body {
   margin: 0;
 }
 
+main {
+  maragin: 10px auto 0;
+  min-width: 680px;
+  max-width: 960px;
+  display: table;
+}
+
 header {
   height: 100px;
   line-height: 100px;
