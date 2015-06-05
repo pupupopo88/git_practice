@@ -4,6 +4,11 @@ html, body {
   margin: 0;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 header {
   height: 100px;
   line-height: 100px;
