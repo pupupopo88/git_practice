@@ -45,3 +45,25 @@ section h1 {
   border-left: 20px solid #545454;
   font-size: 1.5em;
 }
+
+.to_top {
+  margin: 15px auto;
+  padding: 0 10px;
+  text-align: right;
+}
+
+.to_top a {
+  display: inline-block;
+  padding: 20px;
+  border-radius: 5px;
+  background: #303030;
+  color: #ffffff;
+}
+
+footer {
+  height: 200px;
+  padding-top: 30px;
+  background: #545454;
+  color: #ffffff;
+  text-align: center;
+}
